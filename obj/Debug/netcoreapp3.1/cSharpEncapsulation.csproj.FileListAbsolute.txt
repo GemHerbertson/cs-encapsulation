@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/cSharpEncapsulation/bin/Debug/netcoreapp3.1/cSharpEncapsulation.deps.json
+/Users/codenation/Desktop/cSharpEncapsulation/bin/Debug/netcoreapp3.1/cSharpEncapsulation.runtimeconfig.json
+/Users/codenation/Desktop/cSharpEncapsulation/bin/Debug/netcoreapp3.1/cSharpEncapsulation.runtimeconfig.dev.json
+/Users/codenation/Desktop/cSharpEncapsulation/bin/Debug/netcoreapp3.1/cSharpEncapsulation.dll
+/Users/codenation/Desktop/cSharpEncapsulation/bin/Debug/netcoreapp3.1/cSharpEncapsulation.pdb
+/Users/codenation/Desktop/cSharpEncapsulation/obj/Debug/netcoreapp3.1/cSharpEncapsulation.csprojAssemblyReference.cache
+/Users/codenation/Desktop/cSharpEncapsulation/obj/Debug/netcoreapp3.1/cSharpEncapsulation.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/cSharpEncapsulation/obj/Debug/netcoreapp3.1/cSharpEncapsulation.AssemblyInfo.cs
+/Users/codenation/Desktop/cSharpEncapsulation/obj/Debug/netcoreapp3.1/cSharpEncapsulation.dll
+/Users/codenation/Desktop/cSharpEncapsulation/obj/Debug/netcoreapp3.1/cSharpEncapsulation.pdb
